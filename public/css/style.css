@@ -145,3 +145,28 @@ textarea::placeholder {
     flex-direction: column;
     justify-content: space-between;
 }
+
+
+/* ==== navbar ==== */
+.search-btn{
+    background-color: #fe424d;
+    color: #ffffff;
+    border-radius: 55px;
+    padding: 0 1rem 0 1rem;
+  }
+
+  .search-btn:hover{
+    background-color: #fe424d !important;
+    color: #ffffff !important;
+  }
+
+  .search-btn i {
+    display: inline;
+    margin-right: 0.5rem;
+  }
+
+  .search-inp{
+    border-radius: 25px;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    font-size: 1rem;
+  }
