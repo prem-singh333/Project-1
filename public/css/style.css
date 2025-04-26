@@ -149,8 +149,8 @@ textarea::placeholder {
 
 /* ==== navbar ==== */
 .search-btn{
-    background-color: #fe424d;
-    color: #ffffff;
+    background-color: #fe424d !important;
+    color: #ffffff !important;
     border-radius: 55px;
     padding: 0 1rem 0 1rem;
   }
